@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Log.d("LOG_N", "onCreate: ");
         Log.d("LOG_N", "onCreate1: ");
+        Log.d("LOG_N", "onCreate2: ");
     }
 }
